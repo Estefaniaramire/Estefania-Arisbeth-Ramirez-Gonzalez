@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: # Estefania-Arisbeth-Ramirez-Gonzalez
 Soy estudiante de séptimo semestre del tecnológico nacional  de México, <br>tengo conocimientos básicos del  lenguaje de programación C#, HTML , CSS y PHP   
 
 
@@ -16,4 +16,4 @@ Soy estudiante de séptimo semestre del tecnológico nacional  de México, <br>t
 [![](https://visitcount.itsvg.in/api?id= Estefanía Ramírez&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Estefania-Arisbeth-Ramirez-Gonzalez
+
