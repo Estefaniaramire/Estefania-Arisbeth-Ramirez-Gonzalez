@@ -13,7 +13,7 @@ Hola, Mi nombre es Estefania  Arisbeth Ramirez Gonzalez<br><br>Soy un estudiante
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefania Arisbeth Ramirez Gonzalez&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Estefania Arisbeth Ramirez Gonzalez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=Estefania Arisbeth Ramirez Gonzalez&theme=radical&no-frame=false&no-bg=false&margin-w=4](https://github-profile-trophy.vercel.app/?username=Estefania))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Estefania Arisbeth Ramirez Gonzalez&limit=5&theme=onestar&combine_all_yearly_contributions=true)
